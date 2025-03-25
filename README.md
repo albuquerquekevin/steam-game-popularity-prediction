@@ -11,6 +11,7 @@ The dataset consists of game-related features such as:
 - Platform availability (Windows, Mac, Linux)
 - Positive and negative reviews
 - Estimated owners (target variable)
+- The source dataset can be found in this link: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
 
 ## Data Preprocessing
 Key preprocessing steps include:
