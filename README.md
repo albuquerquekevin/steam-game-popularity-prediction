@@ -42,7 +42,7 @@ After hyperparameter tuning, the refined model achieved:
 ## Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/game-popularity-prediction.git
+git clone https://github.com/albuquerquekevin/steam-game-popularity-prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
